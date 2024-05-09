@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="fullname">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="kelas">Kelas</string>
+    <string name="errorText">Erorr</string>
+    <string name="button_submit">Submit</string>
+</resources>
